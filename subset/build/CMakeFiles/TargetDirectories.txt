@@ -1,0 +1,5 @@
+C:/Users/kdj67/study/Recursion/subset/build/CMakeFiles/package.dir
+C:/Users/kdj67/study/Recursion/subset/build/CMakeFiles/subset.dir
+C:/Users/kdj67/study/Recursion/subset/build/CMakeFiles/package_source.dir
+C:/Users/kdj67/study/Recursion/subset/build/CMakeFiles/edit_cache.dir
+C:/Users/kdj67/study/Recursion/subset/build/CMakeFiles/rebuild_cache.dir
